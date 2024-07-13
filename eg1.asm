@@ -1,0 +1,7 @@
+ LDA #'A'
+LOOP JSR $FFEF
+ CLC 
+ ADC #$1
+ CMP #'Z'+1
+ BNE LOOP
+ RTS 
