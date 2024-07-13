@@ -10,6 +10,8 @@ Once loaded you run the program 5000 R, and you will be prompted:
 Memory size ? 20480 <--- You must set this or basic will fail to run!
 
 19455 Bytes free
+
 Enhanced BASIC 2.22
+
 Ready
 
