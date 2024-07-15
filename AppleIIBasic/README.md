@@ -5,8 +5,8 @@ You can run it with E000R
 The txt file is the same apple II basic, as a pastable text MON file. It runs from address 6000H in RAM (6000R)
 
 The original version came from:
-[
-](https://cowgod.org/replica1/applesoft/)
+
+https://cowgod.org/replica1/applesoft/
 
 This is a description from the site, note this version does not contain the extra software for the SD-Card/cassette board.
 
